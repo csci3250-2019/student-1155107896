@@ -22,3 +22,7 @@ website upload | website upload | website upload
 veriguide upload | veriguide upload | veriguide upload
 
 ~~Thanks for reading!~~ :grin:
+
+screenshots:
+![image](https://github.com/csci3250-2019/student-1155107896/blob/master/screenshot_1.png)
+![image](https://github.com/csci3250-2019/student-1155107896/blob/master/screenshot_2.png)
